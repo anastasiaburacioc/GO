@@ -1,5 +1,5 @@
 function sing() {
-  alert('Salutare! Vă rog să apsați OK și să faceți click pe ecran! :)')
+  alert('Salutare! Vă rog să apsați OK și să faceți click pe ecran! Și conectați sunetul!:)')
 }
 
 function On(){
